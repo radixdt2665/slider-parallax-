@@ -82,6 +82,9 @@ ul {
 .gap-30{
     gap: 30px;
 }
+h2{
+  font-weight: 400;
+}
 /* navbar css start */
 .main-navbar .links-main .link {
   position: relative;
